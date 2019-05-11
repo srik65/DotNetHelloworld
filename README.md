@@ -1,1 +1,2 @@
 # dotnetcore-helloworld
+#Configuring pipelines
