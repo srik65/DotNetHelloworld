@@ -1,0 +1,17 @@
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/WebApi.deps.json
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.json
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/WebApi.dll
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/WebApi.pdb
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/Implementation.dll
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/bin/Debug/netcoreapp2.1/Implementation.pdb
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.csprojAssemblyReference.cache
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.csproj.CopyComplete
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.dll
+/Volumes/SRI_MAC/Data/Azure/dotnetcore-helloworld/DotNetCoreHelloWorld/obj/Debug/netcoreapp2.1/WebApi.pdb
