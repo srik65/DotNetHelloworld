@@ -21,4 +21,5 @@ steps:
   inputs:
     command: test
 # Publish to Pipeline 
+- script: dotnet publish --output $(Build.ArtifactStagingDirectory)
 - task: PublishBuildArtifacts@1
